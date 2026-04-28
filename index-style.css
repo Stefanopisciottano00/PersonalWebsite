@@ -193,6 +193,7 @@ h5{
 
 h5:hover{
   transform: scale(1.15);
+  transition-duration: 2s;
 }
 
 h6{
