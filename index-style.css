@@ -185,10 +185,8 @@ h5{
   font-family: 'Cabin', sans-serif;
   font-size: 1.9em;
   color: rgb(90, 90, 90);
-
   display: inline-block;
-
-  transition: transform 0.25s ease;
+  transition: transform 1s ease;
 }
 
 h5:hover{
